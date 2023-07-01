@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @engahmedfaiz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+n 
+- 🌱 I’m currently learning.languages, HTML and phppo, CSS, dry filters, networks, Rafel and C Sharp 
+- 
+- 📫 How to reach me email :ff2173089@gmail.com  or 00967777097835
+- 
 
 <!---
 engahmedfaiz/engahmedfaiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
