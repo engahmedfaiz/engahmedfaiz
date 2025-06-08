@@ -1,37 +1,47 @@
-# مرحباً 👋، أنا أحمد فايز علي!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=مرحباً+بكم+في+ملفي+الشخصي;مطور+برمجيات+مستقل;Flutter+%26+Laravel+Developer" alt="عنوان متحرك" />
+</div>
 
 <p align="center">
-  <img src="رابط_صورة_شعار_أو_صورة_شخصية_اختياري" alt="Ahmed Faiz Logo" width="150"/>
+  <a href="https://engahmedfaiz.github.io/portfoli/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="الموقع الشخصي"/></a>
+  <a href="mailto:engahmedfaiz5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="البريد الإلكتروني"/></a>
+  <img src="https://komarev.com/ghpvc/?username=engahmedfaiz&style=for-the-badge&color=brightgreen" alt="عدد الزوار" />
 </p>
 
-أنا مطور برمجيات مستقل (Freelance Software Developer) مقيم في صنعاء، اليمن 🇾🇪. طالب بكالوريوس في تكنولوجيا المعلومات بجامعة الرازي (2021-2025).
+## 👨‍💻 عني | About Me
 
-لدي شغف بتطوير تطبيقات الويب والموبايل، وأسعى دائمًا لتقديم حلول برمجية مبتكرة وذات جودة عالية.
+مطور برمجيات مستقل من صنعاء، اليمن 🇾🇪 متخصص في تطوير تطبيقات الويب والموبايل. أدرس حاليًا بكالوريوس تكنولوجيا المعلومات في جامعة الرازي (2021-2025 ).
 
- 🚀 المهارات التقنية | Tech Stack
+- 🔭 أعمل حاليًا على **تطوير متاجر إلكترونية وتطبيقات موبايل**
+- 🌱 أتعلم حاليًا **Next.js وتقنيات الذكاء الاصطناعي**
+- 👯 أبحث عن التعاون في **مشاريع Flutter وLaravel**
+- 💬 اسألني عن **تطوير تطبيقات الموبايل، تصميم واجهات المستخدم، وتطوير الويب**
 
-*   **الواجهات الأمامية (Frontend):** HTML5, CSS3, JavaScript, Next.js
-*   **الواجهات الخلفية (Backend):** PHP, Laravel, SQL, C#
-*   **تطوير الموبايل (Mobile):** Flutter
-*   **تصميم الواجهات (UI/UX):** Figma, تصميم واجهات المستخدم وتجربة المستخدم
-*   **أخرى:** Git, GitHub, SEO
+## 🛠️ المهارات والتقنيات | Skills & Technologies
 
-## 🛠️ الخدمات التي أقدمها | Services
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-*   💻 تطوير تطبيقات الويب (Web Development)
-*   📱 تطوير تطبيقات الموبايل (Mobile Application Development)
-*   📊 تحليل النظم (System Analysis)
-*   🎨 تصميم واجهات المستخدم وتجربة المستخدم (UI/UX Design)
-*   💡 تحسين محركات البحث (SEO)
-*   🔧 تكنولوجيا فك تشفير الموبايل والفيرموير (Mobile Unlocking & Firmware Technology)
+## 📊 إحصائيات GitHub | GitHub Stats
 
-## ✨ المشاريع | Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engahmedfaiz&show_icons=true&theme=radical" alt="إحصائيات GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engahmedfaiz&layout=compact&theme=radical" alt="اللغات الأكثر استخداماً" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engahmedfaiz&theme=radical" alt="شريط المساهمات" />
+</div>
 
+## 📫 تواصل معي | Contact Me
 
-*(ملاحظة: يمكنك تثبيت أهم 6 مستودعات لديك لتظهر هنا)*
-
-## 📫 تواصل معي | Get in Touch
-
-*   **البريد الإلكتروني:** engahmedfaiz5@gmail.com
-*   **الهاتف:** +967-780-138-083
-
+- 📧 البريد الإلكتروني: engahmedfaiz5@gmail.com
+- 🌐 الموقع الشخصي: [https://engahmedfaiz.github.io/portfoli/](https://engahmedfaiz.github.io/portfoli/ )
+- 📱 الهاتف: +967-780-138-083
