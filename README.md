@@ -43,5 +43,7 @@
 ## 📫 تواصل معي | Contact Me
 
 - 📧 البريد الإلكتروني: engahmedfaiz5@gmail.com
-- 🌐 الموقع الشخصي: [https://engahmedfaiz.github.io/portfoli/](https://engahmedfaiz.github.io/portfoli/ )
+- 🌐 الموقع الشخصي: [https://ahmedfaiz.vercel.app/ )
+- - 🌐 الموقع الشخصي: [https://engahmedfaiz.github.io/portfoli/](https://engahmedfaiz.github.io/portfoli/ )
+
 - 📱 الهاتف: +967-780-138-083
